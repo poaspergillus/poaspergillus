@@ -1,4 +1,4 @@
-# Pol Asperpoaspergillus
+# Pol Asper
 
 Open-source contributor. I focus on the unglamorous work — typo fixes, documentation gaps, and small bugs that quietly slow teams down.
 
