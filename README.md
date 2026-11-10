@@ -1,13 +1,10 @@
 # Pol Asperpoaspergillus
 
-Open-source contributor. I fix the small things most people scroll past — typos, broken docs, quiet bugs. Already fixed it? Saved you time? A tip's appreciated, but honestly the merge is thanks enough.
+Open-source contributor. I focus on the unglamorous work — typo fixes, documentation gaps, and small bugs that quietly slow teams down.
 
-## Featured Work
-*(Pin your 3–6 best merged PRs or repos here.)*
+I contribute because open source runs on people doing the small things. If something I merged saved you time, you're welcome to send a tip. If not, a merge is reward enough.
 
-## Support (Optional)
-If a fix saved you time, a tip is appreciated — never required.
-
+## Support
 - **BTC:** `bc1qqnfwkgtpuuf5dsgydwaueysg9ru6hs2r2rl9fc`
 - **ETH:** `0x4AC5EDcD59143E7e07B26d4D5cfcBA52f437f5fD`
 
